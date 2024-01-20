@@ -70,8 +70,8 @@ function App() {
                 <li onClick={() => scrollToSection('ourSocials')}>OUR SOCIALS</li>
               </ul>
               <div className="socials-block">
-                <a href="https://t.me/Gyrocoinportal" target="_blank"><img className="socials-block-img" alt="telegram" src={menuTelegram}/></a>
-                <a href="https://twitter.com/Gyro_Coin_Sol" target="_blank"><img className="socials-block-img" alt="twitter" src={menuTwitter}/></a>
+                <a href="https://t.me/Gyrocoinportal" target="_blank" rel="noreferrer"><img className="socials-block-img" alt="telegram" src={menuTelegram}/></a>
+                <a href="https://twitter.com/Gyro_Coin_Sol" target="_blank" rel="noreferrer"><img className="socials-block-img" alt="twitter" src={menuTwitter}/></a>
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@ function App() {
             </div>
             <div className="buttonBlock">
               <button className="mainButton button">BUY {ticker}</button>
-              <a href="https://gyro-inc.gitbook.io/gyro-the-giraffe/gyro-the-giraffe/introduction" target="_blank"><button className="subButton button">Whitepaper</button></a>
+              <a href="https://gyro-inc.gitbook.io/gyro-the-giraffe/gyro-the-giraffe/introduction" target="_blank" rel="noreferrer"><button className="subButton button">Whitepaper</button></a>
             </div>
           </div>
           </div>
@@ -109,7 +109,7 @@ function App() {
             <p className="description">
               Introducing our revolutionary new token - <b>$GYRO</b>. Designed to disrupt traditional financial systems and empower individuals in the digital age, Gyro is set to revolutionize the way we transact, invest, and participate in the global economy.
             </p>
-            <a href="https://gyro-inc.gitbook.io/gyro-the-giraffe/gyro-the-giraffe/introduction" target="_blank"><button className="subButton button">Whitepaper</button></a>
+            <a href="https://gyro-inc.gitbook.io/gyro-the-giraffe/gyro-the-giraffe/introduction" target="_blank" rel="noreferrer"><button className="subButton button">Whitepaper</button></a>
           </div>
           <div className="aboutImgBlock">
             <img alt="about" src={aboutImg}/>
@@ -214,8 +214,8 @@ function App() {
             Keep your self updated!<br/>Follow us on social media & join our telegram channel.
           </p>
           <div className="soc">
-            <a href="https://t.me/Gyrocoinportal" target="_blank"><img className="socImg" alt="telegram" src={telegram}/></a>
-            <a href="https://twitter.com/Gyro_Coin_Sol" target="_blank"><img className="socImg" alt="twitter" src={twitter}/></a>
+            <a href="https://t.me/Gyrocoinportal" target="_blank" rel="noreferrer"><img className="socImg" alt="telegram" src={telegram}/></a>
+            <a href="https://twitter.com/Gyro_Coin_Sol" target="_blank" rel="noreferrer"><img className="socImg" alt="twitter" src={twitter}/></a>
           </div>
           <img className="giftImg" alt="socials" src={socialsImg}/>
         </div>
