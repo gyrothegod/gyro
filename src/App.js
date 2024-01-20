@@ -107,10 +107,7 @@ function App() {
               About {ticker}
             </h2>
             <p className="description">
-              Introducing our revolutionary new token - Gyro. Designed to disrupt traditional financial systems and empower individuals in the digital age, Gyro is set to revolutionize the way we transact, invest, and participate in the global economy
-              Built on the secure and reliable blockchain technology, Gyro offers unparalleled decentralization, transparency, and security. Whether you're sending funds across borders or making everyday purchases, Gyro ensures lightning-fast and borderless transactions with low fees
-              But Gyro is not just a means of exchange; it is also a store of value and an attractive investment opportunity. With a limited supply and a deflationary mechanism, the value of Gyro is expected to appreciate over time, making it an excellent asset for long-term investors. Additionally, Gyro holders can participate in various staking and governance mechanisms, giving them the power to shape the future direction of the token and influence key decisions.
-              Join us on this exciting journey as we redefine the future of finance. Invest in Gyro today and be part of the growing global community that is embracing the decentralized revolution.
+              Introducing our revolutionary new token - <b>$GYRO</b>. Designed to disrupt traditional financial systems and empower individuals in the digital age, Gyro is set to revolutionize the way we transact, invest, and participate in the global economy.
             </p>
             <a href="https://gyro-inc.gitbook.io/gyro-the-giraffe/gyro-the-giraffe/introduction" target="_blank"><button className="subButton button">Whitepaper</button></a>
           </div>
